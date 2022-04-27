@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: white;
+    text-transform:uppercase ;
+}
+
+.card {
+    background-color: #333;
+    font-weight: bold;
+}
